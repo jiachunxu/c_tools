@@ -15,7 +15,7 @@
 #define is_zero(x) ((x) == 0)
 #define is_not_zero(x) ((x) != 0)
 //#define is_equal(x, y) ((x) == (y))
-#define is_not_equal(x, y) ((x) != (y))
+//#define is_not_equal(x, y) ((x) != (y))
 
 
 #endif //C_TOOLS_TOOLS_H
