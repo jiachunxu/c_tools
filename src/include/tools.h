@@ -21,5 +21,6 @@
 // 安全 free , 重复率高
 #define free_ptr(ptr) do { if ((ptr) != NULL) { free((ptr)); (ptr) = NULL; } } while(0)
 
+#define string_c char *
 
 #endif //C_TOOLS_TOOLS_H
