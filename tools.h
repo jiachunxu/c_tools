@@ -14,7 +14,7 @@
 #define is_not_null(x) ((x) != NULL)
 #define is_zero(x) ((x) == 0)
 #define is_not_zero(x) ((x) != 0)
-#define is_equal(x, y) ((x) == (y))
+//#define is_equal(x, y) ((x) == (y))
 #define is_not_equal(x, y) ((x) != (y))
 
 
